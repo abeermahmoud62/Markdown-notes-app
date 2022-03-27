@@ -26,7 +26,7 @@ const Editor = ({currentNote,updateNote}) => {
                 heightUnits="vh"
             />
     </section>
-  )
+)
 }
 
 export default Editor
